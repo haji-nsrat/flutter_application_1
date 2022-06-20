@@ -1,6 +1,7 @@
 # flutter_application_1
 
 this is flutter starter app, and out here learning flutter feel free to use it if you find it useful.
+### :)
 
 ## Getting Started
 
